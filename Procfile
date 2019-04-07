@@ -1,1 +1,1 @@
-start: index.js
+start: src/index.js
