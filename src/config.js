@@ -81,7 +81,7 @@ const defaultConfig = {
   "relaySmallAttachmentsAsAttachments": true,
   "smallAttachmentLimit": 1024 * 1024 * 2,
   "attachmentStorage": "local",
-  "attachmentStorageChannelId": "564286700616941589",
+  "attachmentStorageChannelId": null,
 
   "categoryAutomation": {},
 
